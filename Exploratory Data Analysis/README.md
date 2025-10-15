@@ -46,7 +46,3 @@ Skills Demonstrated: Feature Analysis, Time-Series Analysis, Correlation Analysi
 I'm always open to connecting and discussing data, technology, or new opportunities.
 Linkedin: https://www.linkedin.com/in/olumide-amune/459b7a110
 Email: theolumideamune@gmail.com
-
-LinkedIn: [Your Name](link-to-your-linkedin)
-
-Email: youremail@example.com
